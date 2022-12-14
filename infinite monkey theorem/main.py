@@ -14,7 +14,7 @@ clock = pygame.time.Clock()
 background = (51, 51, 51)
 white = (240, 243, 244)
 
-phraseToEvolve = "Magturo si Ilustre"
+phraseToEvolve = "Genetic Algorithm"
 init__population = 200
 mutation_rate = 1
 population = []
